@@ -1,0 +1,11 @@
+{
+  "org": "UKPLab",
+  "repo": "emnlp2026-zoom-in",
+  "versions": [
+    {
+      "commit": "0e68db59bcbdfb1a1e72b4a394971144159222e3",
+      "tag": "",
+      "parsed_at": "2026-11-08T06:56:59.195387+00:00"
+    }
+  ]
+}
