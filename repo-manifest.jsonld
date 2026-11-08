@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/UKPLab/emnlp2026-zoom-in/commit/0e68db59bcbdfb1a1e72b4a394971144159222e3",
       "git:hexsha": "0e68db59bcbdfb1a1e72b4a394971144159222e3",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
